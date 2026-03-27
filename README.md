@@ -11,7 +11,6 @@ The dashboard helps in identifying key insights such as top-performing products,
 ## 🛠️ Tools & Technologies Used
 
 * Microsoft Power BI
-* SQL (for data analysis)
 * Data Cleaning & Data Visualization
 
 ---
